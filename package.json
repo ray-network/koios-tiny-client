@@ -1,6 +1,6 @@
 {
   "name": "koios-tiny-client",
-  "version": "1.1010.0",
+  "version": "1.1010.1",
   "description": "TypeScript client fot KOIOS Elastic Cardano Query Layer",
   "author": "Ray Network <hello@raynetwork.io>",
   "homepage": "https://raygraph.io",
